@@ -1,0 +1,6 @@
+{
+  "name": "Personal Task Manager",
+  "description": "A focused personal task management and productivity application with daily planning, priority matrix, focus timer, and subtasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
