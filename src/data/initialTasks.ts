@@ -28,8 +28,8 @@ export const getTomorrowDateString = (): string => {
 export const INITIAL_TASKS: Task[] = [
   {
     id: 'task-1',
-    title: 'Evening gym and yoga session',
-    notes: 'Hydrate before starting.',
+    title: "Get started by setting up your task's to organize your daily life.",
+    notes: "Don't forget to add your priorities.",
     completed: false,
     createdAt: new Date(Date.now() - 3600 * 1000 * 12).toISOString(),
     dueDate: getTodayDateString(),
